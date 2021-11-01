@@ -61,7 +61,7 @@ import os, sys, time, random
 from sys import exit as keluar
 from time import sleep as waktu
 from random import random as acak
-from random import choice as CHOZE OPITION
+from random import choice as pilih
 from sys import stdout
 from os import system
 import re
